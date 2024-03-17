@@ -16,3 +16,10 @@ example of output:
 
 4: 01:08:31
 
+Simple Text Editor with Undo Functionality
+- simpleTextEditor.py
+- textEditorTest.py
+
+Result of test:
+
+No errors found
